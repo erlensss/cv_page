@@ -10,4 +10,4 @@
 
 ![image](assets/fotka.jpg)
 
-[CV page repository](https://github.com/erlensss/cv_page)
+[CV page repository](erlensss.github.io/cv_page/)
